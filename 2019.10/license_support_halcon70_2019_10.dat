@@ -1,0 +1,6 @@
+###########################################
+# Support License for 10/2019  (ID: DEMO) #
+###########################################
+FEATURE MVTec_Halcon mvtecd 7.0 01-nov-2019 uncounted 0E6FB0BA45137CC5A5BF \
+	VENDOR_STRING=511 HOSTID=DEMO ck=22 TS_OK
+

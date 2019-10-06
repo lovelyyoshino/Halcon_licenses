@@ -1,0 +1,8 @@
+###########################################
+# Support License for 10/2019  (ID: DEMO) #
+###########################################
+LICENSE MVTec_HALCON 19.11 MODULES=fc123bdomit VALID=2019-11-01 ID=DEMO \
+        FLAGS=PROGRESS_OK SESSIONS=1 SIGNATURE="87FB 468B D9F7 9B8E 94EF 0914 \
+        0723 3022 0114 8512 7E9C C367 0D54 4CB3 4AF6 BAC0 BA44 5070 4DDC 3128 \
+        E762 4625 881B E631 67ED EB7E F8D1 08DD 0046 F24E 28F4 FA0B"
+
