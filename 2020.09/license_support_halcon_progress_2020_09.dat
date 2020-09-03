@@ -1,0 +1,8 @@
+###########################################
+# Support License for 09/2020  (ID: DEMO) #
+###########################################
+LICENSE MVTec_HALCON 20.10 MODULES=fc123bdomit VALID=2020-10-01 ID=DEMO \
+        FLAGS=PROGRESS_OK SESSIONS=1 SIGNATURE="8B66 674E 9107 E3D1 B6C5 5542 \
+        4845 5E36 3670 2369 1800 C256 E60C 0EFF F4F8 AAA6 225F 91F2 ED2E 7F4F \
+        38F5 1184 C208 C3C1 52D8 D5E7 E582 149E A53A A44C C9A7 5F05"
+

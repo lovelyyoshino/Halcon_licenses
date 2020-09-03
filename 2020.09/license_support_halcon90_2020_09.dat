@@ -1,0 +1,8 @@
+###########################################
+# Support License for 09/2020  (ID: DEMO) #
+###########################################
+FEATURE MVTec_HALCON mvtecd 9.0 01-oct-2020 uncounted VENDOR_STRING=511 \
+	HOSTID=DEMO TS_OK SIGN="1BB1 4EAF F2CC E148 693D 4CD9 2E86 8F91 \
+	93D5 CBBA 5DE7 ACE1 4A53 95F1 1DB8 0B54 DC4B BC78 56FC 05B8 09B6 \
+	450D 2DE5 3750 B939 02FF E981 7961 D0F0 6D62"
+
