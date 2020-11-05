@@ -13,6 +13,7 @@
 则License许可放置位置在：D:\Program Files\MVTec\HALCON-13.0\license\ 文件夹下即可,并将文件名改为license.dat即可。*
 
 (The installation path of Halcon is: D:\Program Files\MVTec\HALCON-13.0\
+
 then the license is placed in: D:\Program Files\MVTec\HALCON-13.0\license\ folder, and the file name is changed to  license.dat.)
 
 ![](https://i.imgur.com/WzYxcGj.png)
@@ -23,7 +24,9 @@ Halcon安装路径为：D:\Program Files\MVTec\HALCON-20.05-Progress
 则License许可放置位置在：D:\Program Files\MVTec\HALCON-20.05-Progress\license 文件夹下即可。
 
 （For the halcon18 version, please use the other two files. This method is suitable for HALCON. The error code is: 21010 The license is invalid!  Other error codes cannot be solved by this method: 
+
 The Halcon installation path is: D:\Program Files\MVTec\HALCON-20.05-Progress
+
 the license is placed in: D:\Program Files\MVTec\HALCON-20.05-Progress\license folder.）
 
 ![img](https://i.loli.net/2020/11/05/L1Z4eTVqrcbSmfh.png)
