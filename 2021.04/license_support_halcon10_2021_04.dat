@@ -1,0 +1,8 @@
+###########################################
+# Support License for 04/2021  (ID: DEMO) #
+###########################################
+FEATURE MVTec_HALCON mvtecd 10.0 01-may-2021 uncounted VENDOR_STRING=511 \
+	HOSTID=DEMO TS_OK SIGN="12A5 D5A4 4462 A518 623E 3D44 22DD A29A \
+	810B D092 D0D5 6312 AE12 A3E2 AE8E 01BC B19A B84D CD5C 2EA2 7329 \
+	8D27 9A0F FECB 566E C9B4 DA4B 7F3D 40B6 3F3B"
+
