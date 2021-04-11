@@ -23,11 +23,11 @@ then the license is placed in: D:\Program Files\MVTec\HALCON-13.0\license\ folde
 
 （In addition, steady and Progress files are applicable to the version evaluation version, if you are the development board, you need to find the corresponding version of licence）
 
-halcon18版本请使用另外两个文件,该方法适用于HALCON出现错误码为：21010 许可无效！其他错误码无法使用该方法进行解决：
+halcon19、20版本请使用另外两个文件,该方法适用于HALCON出现错误码为：21010 许可无效！其他错误码无法使用该方法进行解决：
 Halcon安装路径为：D:\Program Files\MVTec\HALCON-20.05-Progress
 则License许可放置位置在：D:\Program Files\MVTec\HALCON-20.05-Progress\license 文件夹下即可。
 
-（For the halcon18 version, please use the other two files. This method is suitable for HALCON. The error code is: 21010 The license is invalid!  Other error codes cannot be solved by this method: 
+（For the halcon19 and 20 version, please use the other two files. This method is suitable for HALCON. The error code is: 21010 The license is invalid!  Other error codes cannot be solved by this method: 
 
 The Halcon installation path is: D:\Program Files\MVTec\HALCON-20.05-Progress
 
