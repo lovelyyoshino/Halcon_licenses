@@ -1,0 +1,8 @@
+###########################################
+# Support License for 07/2021  (ID: DEMO) #
+###########################################
+LICENSE MVTec_HALCON 18.11 MODULES=fc123bdomit VALID=2021-08-01 ID=DEMO \
+        SESSIONS=1 SIGNATURE="6300 137D A359 A2BB 1FDE 6653 1CC5 815D 16CA \
+        C2DD 3576 A2CD AFB4 6FDC 0A76 93B5 649C 7D8C 51C4 79EF 348E 6B2F 3D9D \
+        0D0C 28D6 9478 2681 2FC0 26A2 28F5 3166 C00B"
+
