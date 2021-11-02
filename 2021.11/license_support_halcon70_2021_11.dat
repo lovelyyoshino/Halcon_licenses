@@ -1,0 +1,6 @@
+###########################################
+# Support License for 11/2021  (ID: DEMO) #
+###########################################
+FEATURE MVTec_Halcon mvtecd 7.0 01-dec-2021 uncounted 2F43C2DA04FE6ECC93FE \
+	VENDOR_STRING=511 HOSTID=DEMO ck=19 TS_OK
+
