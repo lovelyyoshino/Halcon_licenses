@@ -1,5 +1,8 @@
-# Halcon破解安装(Halcon crack installation)
+# Halcon激活安装(Halcon activate installation)
 
+### tips: 本项目是为了方便开发者进行测试使用。如有侵权，请联系作者删除该项目。本项目仅提供学习交流使用。(*^▽^*)
+
+###（This project is for the convenience of developers to test use. If there is any infringement, please contact the author to delete this project.  This project is for learning and exchange only. (*^▽^*)）
 ----------
 ### 安装方法：(Installation method:)
 
