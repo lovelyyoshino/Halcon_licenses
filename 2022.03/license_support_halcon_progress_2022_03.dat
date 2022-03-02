@@ -1,0 +1,8 @@
+###########################################
+# Support License for 03/2022  (ID: DEMO) #
+###########################################
+LICENSE MVTec_HALCON 22.04 MODULES=fc123bdomit VALID=2022-04-01 ID=DEMO \
+        FLAGS=PROGRESS_OK SESSIONS=1 SIGNATURE="16F5 B4F5 7202 04E2 2501 5139 \
+        714E 3DB1 5817 7221 6C03 C415 81FF E592 1FE7 0D9A EC44 C180 A01D 6CB8 \
+        2E1F AE1A 74E7 E34A 0980 9C80 8B8E A180 A9DB 0117 EB0B C40B"
+
