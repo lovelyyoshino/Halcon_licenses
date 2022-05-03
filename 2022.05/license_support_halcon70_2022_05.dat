@@ -1,0 +1,6 @@
+###########################################
+# Support License for 05/2022  (ID: DEMO) #
+###########################################
+FEATURE MVTec_Halcon mvtecd 7.0 01-jun-2022 uncounted BF64067A85884A9BA502 \
+	VENDOR_STRING=511 HOSTID=DEMO ck=240 TS_OK
+
