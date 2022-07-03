@@ -1,0 +1,8 @@
+###########################################
+# Support License for 07/2022  (ID: DEMO) #
+###########################################
+FEATURE MVTec_HALCON mvtecd 9.0 01-aug-2022 uncounted VENDOR_STRING=511 \
+	HOSTID=DEMO TS_OK SIGN="1510 FA2C 555C 0069 C1C3 3C74 4026 F229 \
+	CBF7 9EC1 205A 80D1 0C7B D956 41EE 0C1B 72E4 501A 452E 7389 3E3F \
+	4F5E 25DE E21E ACB0 EA2E 9DD7 0DDA E194 1AC1"
+
