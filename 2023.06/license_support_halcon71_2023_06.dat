@@ -1,0 +1,8 @@
+###########################################
+# Support License for 06/2023  (ID: DEMO) #
+###########################################
+FEATURE MVTec_HALCON mvtecd 7.1 01-jul-2023 uncounted VENDOR_STRING=511 \
+	HOSTID=DEMO TS_OK SIGN="1529 F274 6DFD 892A 8661 2C34 5ECD F588 \
+	9980 4F34 DC65 A909 933B E82E 97E7 1308 71FA 6E64 AD09 E23E 4AE8 \
+	3B6C D630 046C 6257 F96D 3307 6D44 6566 A0DE"
+
