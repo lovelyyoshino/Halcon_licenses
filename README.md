@@ -7,6 +7,11 @@
 
 ### (This project is for the convenience of developers to test use. If there is any infringement, please contact the author to delete this project.  This project is for learning and exchange only. (*^▽^*))
 
+# 如果出现未及时更新情况，那非常抱歉，因为我应该在忙工作，或者在出差（2023.09）
+
+# If there is a situation where I haven't been updated in a timely manner, I'm very sorry because I should be busy with work or on a business trip（2023.09）
+
+
 ----------
 ### 安装方法：(Installation method:)
 
