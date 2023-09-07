@@ -1,0 +1,8 @@
+###########################################
+# Support License for 09/2023  (ID: DEMO) #
+###########################################
+LICENSE MVTec_HALCON 23.10 MODULES=fc123bdomit VALID=2023-10-01 ID=DEMO \
+        FLAGS=PROGRESS_OK SESSIONS=1 SIGNATURE="77FB 2B20 3B7F DFF1 DE0E 27B8 \
+        6C21 28D3 6117 340F 963B A746 ACE3 FCFD 5CF8 DE91 482B 6360 0AF5 193C \
+        3A44 21AB 6B1E CE4D E27D 13A4 4F6F A897 6BBA 08E9 55B3 200E"
+
