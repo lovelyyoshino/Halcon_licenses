@@ -1,0 +1,6 @@
+###########################################
+# Support License for 12/2023  (ID: DEMO) #
+###########################################
+FEATURE MVTec_Halcon mvtecd 7.0 01-jan-2024 uncounted AFC7F41A88734C9796FB \
+	VENDOR_STRING=511 HOSTID=DEMO ck=30 TS_OK
+
