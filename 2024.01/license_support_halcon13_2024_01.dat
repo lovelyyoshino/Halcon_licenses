@@ -1,0 +1,8 @@
+###########################################
+# Support License for 01/2024  (ID: DEMO) #
+###########################################
+LICENSE MVTec_HALCON 13.0 MODULES=fc123bdom VALID=2024-02-01 ID=DEMO \
+        SESSIONS=1 SIGNATURE="48B5 373B 3EA4 483B 679C D9CB 9ED8 C411 575F \
+        8B51 A82B 14D2 2CC4 50E9 BC57 14B5 D847 C0FE 65DC B3C1 1386 8CA5 DE83 \
+        DEC9 ADBE E98C A23E ECF7 6674 4F4A 8708 DB06"
+
