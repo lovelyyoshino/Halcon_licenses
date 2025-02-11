@@ -1,4 +1,4 @@
-# Halcon激活安装 (Halcon Activate Installation)
+# Halcon激活安装 --Halcon Activate Installation
 
 ----------
 
