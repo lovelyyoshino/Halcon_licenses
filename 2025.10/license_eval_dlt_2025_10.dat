@@ -1,0 +1,10 @@
+##############################################
+# Evaluation License for 10/2025  (ID: EVAL) #
+# Publish by https://www.51halcon.com  #
+##############################################
+LICENSE MVTec_DeepLearningTool 23.11:25.11 VALID=2025-11-01 ID=EVAL FLAGS=oem \
+        SESSIONS=1 INFO="NOT FOR COMMERCIAL USE - NOT FOR CONTINUED USE" \
+        SIGNATURE="1600 57B4 3827 51E2 C641 9AC9 BF88 BB2E 0CAC E8C9 9935 \
+        E032 C7DC DA8B D033 87A1 0F24 3D59 3FC6 7D44 2125 6B71 AF23 A837 6217 \
+        E311 521A 129B B422 932F C438 5208"
+
