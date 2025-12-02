@@ -1,0 +1,8 @@
+###########################################
+# Support License for 12/2025  (ID: DEMO) #
+# Publish by https://www.51halcon.com  #
+###########################################
+FEATURE MVTec_Halcon mvtecd 7.0 01-jan-2026 uncounted 4F3B75B23E33499ACBAD \
+	VENDOR_STRING=511 HOSTID=DEMO ck=78 TS_OK
+
+
