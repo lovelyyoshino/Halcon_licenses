@@ -1,0 +1,11 @@
+###########################################
+# Support License for 10/2026  (ID: DEMO) #
+# Publish by https://www.51halcon.com  #
+###########################################
+LICENSE MVTec_HALCON 20.11 MODULES=fc123bdom VALID=2026-11-01 ID=DEMO \
+        SESSIONS=1 INFO="MUST REPLACE A VALID LICENSE (ONLY TEMPORARILY)" \
+        SIGNATURE="F6ED 2C95 B86A 48ED 5E98 59C8 156A 7482 BD65 D857 1416 \
+        95AE F526 8A69 6629 FC91 4F10 625B F7F4 36CC 6DAF 421B BEC1 DFA2 C852 \
+        EB4A 2C66 34A3 1B4A BA61 BD23 650F"
+
+
